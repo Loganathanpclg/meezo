@@ -1,0 +1,51 @@
+.login {
+    border: 1px solid rgb(10, 92, 186);
+    width: 40%;
+    height: 300px;
+    border-radius: 30px;
+    justify-content:center;
+    margin-left: 430px;
+    margin-top: 180px;
+}
+
+.reg {
+    border: 1px solid rgb(10, 92, 186);
+    width: 50%;
+    height: 450px;
+    border-radius: 30px;
+    justify-content:center;
+    margin-left: 430px;
+    margin-top: 180px;
+}
+
+.head {
+    text-align:center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-size:20px;
+    font-weight:bold;
+}
+
+.inputs {
+    width: 60%;
+    height: 30px;
+    border-radius: 10px;
+    border: 1px solid black;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.bt {
+    height: 30px;
+    width: 100px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 250px;
+    background: blue;
+}
+
+.Rform {
+    padding: 10px;
+}
+
